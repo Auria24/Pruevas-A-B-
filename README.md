@@ -34,10 +34,10 @@ Python, Pandas, Scipy.
     <!--<header>- - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)</header>-->
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
---- <!--<header>- **Bases de Datos:** </header>-->
+ <!--<header>- **Bases de Datos:** </header>-->
  <!--<header> - ![MySQL](https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white)---
 ---</header>-->
+
 ---
 
 ### Gráfico de lineas📊: Ingresos por grupo
@@ -65,7 +65,6 @@ Este gráfico compara el primedio en el periodo de los dos grupos.
   <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/promedio%20por%20grupo.png" alt="Gráfico de lineas con linea de referencia" width="80%">
 </div>
 
----
 ---
 
 ### Gráfico de lineas📊: diferencia relativa
