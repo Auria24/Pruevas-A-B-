@@ -44,7 +44,7 @@ Python, Pandas, Scipy.
 Este gráfico compara el ingreso  en el periodo de los dos grupos.
 
 <div align="center">
-  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/ingreso%20por%20grupo.png" alt="Gráfico de lineas con linea de referencia" width="80%">
+  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/ingreso%20acumulado%20por%20grupo.png" alt="Gráfico de lineas con linea de referencia" width="80%">
 </div>
 
 ---
@@ -53,7 +53,7 @@ Este gráfico compara el ingreso  en el periodo de los dos grupos.
 Este gráfico compara el numero de pedidos  por usuario.
 
 <div align="center">
-  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/numero%20de%20pedido%20por%20usuario.png" alt="Gráfico de lineas con linea de referencia" width="80%">
+  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/numero%20de%20pedidos%20por%20usuario.png" alt="Gráfico de lineas con linea de referencia" width="80%">
 </div>
 
 ---
@@ -62,7 +62,7 @@ Este gráfico compara el numero de pedidos  por usuario.
 Este gráfico compara el primedio en el periodo de los dos grupos.
 
 <div align="center">
-  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/promedio%20por%20grupo.png" alt="Gráfico de lineas con linea de referencia" width="80%">
+  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/tama%C3%B1o%20del%20pedido%20promedio%20por%20grupo.png" alt="Gráfico de lineas con linea de referencia" width="80%">
 </div>
 
 ---
@@ -71,7 +71,7 @@ Este gráfico compara el primedio en el periodo de los dos grupos.
 Este gráfico compara el diferencia relativa en el periodo de los dos grupos.
 
 <div align="center">
-  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/diferencia_relativa_en_el_por%20pedido.png" alt="Gráfico de lineas con linea de referencia" width="80%">
+  <img src="https://github.com/Auria24/Pruevas-A-B-/blob/main/diferencia%20relativa%20en%20tama%C3%B1o%20por%20pedido.png" alt="Gráfico de lineas con linea de referencia" width="80%">
 </div>
 
 ---
