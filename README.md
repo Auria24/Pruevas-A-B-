@@ -1,4 +1,4 @@
-# Pruebas-A-B-# Proyecto de Pruevas-A-B-
+# Pruebas-A-B-# Proyecto de Pruebas-A-B-
 
 ¡Hola! este proyecto fue realizado en Tripleten en el cual encontramos varias tendencias en ordenes y visitas mediante un proceso de 8 hipótesis, realizando piorización. obteniendo diferentes tendencias por ingreso, por periodo en los dos grupos analizados obteniendo resultados muy similares
 
